@@ -1,0 +1,1562 @@
+[
+    {
+        "id": 0,
+        "ProductName": "'Стиральная машина LG F2J3NS1W белый",
+        "price": 120979,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/ea7cf56724c2a0b1081f8a31ae9b327d/291a1b665e0bff04ae342dc7b6556574b7c28b99b0f05d2025797a13a0320509.jpg.webp",
+        "present": true,
+        "description": "стирка - 6 кг, фронтальная загрузка, отжим - 1200 об/мин, программ - 10, пар, 55 дБ, 60 см x 85 см x 44 см - 49 см",
+        "type": "Друзья",
+        "rating": 3.5,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 1,
+        "ProductName": "'Фен BaByliss Pro Caruso BAB6510 черный",
+        "price": 6559,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/1d5ee4152d231bf961f7784617fa7b08/133f62ed3b11a0e88abb95b6e3fd3229630212be9379b846d3e5a2790caa88cf.jpg.webp",
+        "present": true,
+        "description": "полноразмерный, 2400 Вт, подача холодного воздуха, генератор ионов, шнур - 2.7 м",
+        "type": "Вторая половинка",
+        "rating": 4.2,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 2,
+        "ProductName": "'Ноутбук MSI Katana GF76 B12UCR-821XRU черный",
+        "price": 95999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5ae4c0ddf39b7998778e5f70f19821a6/64cad8497f91c7b926d47580ba6e67c39534e707153591a1b161302c07634135.jpg.webp",
+        "present": true,
+        "description": "английская/русская раскладка, 1920x1080, IPS, Intel Core i5-12450H, ядра: 4 + 4 х 2 ГГц + 1.5 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 3050 для ноутбуков 4 ГБ, без ОС",
+        "type": "Вторая половинка",
+        "rating": 4.3,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 3,
+        "ProductName": "Игровая консоль PlayStation 5 Slim",
+        "price": 249531,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/34db974dde0e5f503ac8da40a23c0e44/cfb0ea5fc6b43e1e55467ef80f8464ff034d86c8d5f6824a8fd7b6db19511dfe.jpg.webp",
+        "present": true,
+        "description": "1000 ГБ, с дисководом, Bluetooth 5.1, Wi-Fi 6 (802.11ax), HDMI 2.1, до 8K UltraHD, 7680 x 4320",
+        "type": "Вторая половинка",
+        "rating": 4.8,
+         "age": "Больше 50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 4,
+        "ProductName": "'Смарт-часы Apple Watch SE 2023 40mm",
+        "price": 28599,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/d50df1fa03dd18b3953cce3e8335c787/7d7597a6bed145fc05796677e2e1bb29269c8867515c085e1f82218a95b457db.jpg.webp",
+        "present": true,
+        "description": "корпус - бежевый, ремешок - бежевый, 1.57, OLED, 394x324, Bluetooth, NFC, Wi-Fi, для iOS 17 и выше",
+        "type": "Друзья",
+        "rating": 3.7,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 5,
+        "ProductName": "Электрическая цепная пила Makita UC3541A",
+        "price": 12999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/bcbc1bf04de6a0400aa8ff43a3bf58f5/fd9f092667120173a9e829a586f668cdfa28a055fa40c19fefe86e00ad05809f.jpg.webp",
+        "present": true,
+        "description": "1800 Вт, скорость цепи 14.5 м/с, шина - 35 см, паз шины - 1.3 мм, шаг цепи - 9.3 мм (3/8)",
+        "type": "Друзья",
+        "rating": 3.6,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 6,
+        "ProductName": "Игровая консоль PlayStation 5 Slim",
+        "price": 42560,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/34db974dde0e5f503ac8da40a23c0e44/cfb0ea5fc6b43e1e55467ef80f8464ff034d86c8d5f6824a8fd7b6db19511dfe.jpg.webp",
+        "present": true,
+        "description": "1000 ГБ, с дисководом, Bluetooth 5.1, Wi-Fi 6 (802.11ax), HDMI 2.1, до 8K UltraHD, 7680 x 4320",
+        "type": "Родители",
+        "rating": 4.0,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 7,
+        "ProductName": "Игровая консоль PlayStation 5 Slim",
+        "price": 133469,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/34db974dde0e5f503ac8da40a23c0e44/cfb0ea5fc6b43e1e55467ef80f8464ff034d86c8d5f6824a8fd7b6db19511dfe.jpg.webp",
+        "present": true,
+        "description": "1000 ГБ, с дисководом, Bluetooth 5.1, Wi-Fi 6 (802.11ax), HDMI 2.1, до 8K UltraHD, 7680 x 4320",
+        "type": "Дети",
+        "rating": 3.9,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 8,
+        "ProductName": "Игровая консоль PlayStation 5 Slim",
+        "price": 246283,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/34db974dde0e5f503ac8da40a23c0e44/cfb0ea5fc6b43e1e55467ef80f8464ff034d86c8d5f6824a8fd7b6db19511dfe.jpg.webp",
+        "present": true,
+        "description": "1000 ГБ, с дисководом, Bluetooth 5.1, Wi-Fi 6 (802.11ax), HDMI 2.1, до 8K UltraHD, 7680 x 4320",
+        "type": "Родители",
+        "rating": 3.6,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 9,
+        "ProductName": "'Ноутбук MSI Katana GF76 B12UCR-821XRU черный",
+        "price": 95999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5ae4c0ddf39b7998778e5f70f19821a6/64cad8497f91c7b926d47580ba6e67c39534e707153591a1b161302c07634135.jpg.webp",
+        "present": true,
+        "description": "английская/русская раскладка, 1920x1080, IPS, Intel Core i5-12450H, ядра: 4 + 4 х 2 ГГц + 1.5 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 3050 для ноутбуков 4 ГБ, без ОС",
+        "type": "Вторая половинка",
+        "rating": 4.7,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 10,
+        "ProductName": "'6.5' Apple iphone 14",
+        "price": 35288,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/60c37f197c7c2f6b977c7f7e90f413f7/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Друзья",
+        "rating": 3.2,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 11,
+        "ProductName": "Электрическая цепная пила Makita UC3541A",
+        "price": 12999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/bcbc1bf04de6a0400aa8ff43a3bf58f5/fd9f092667120173a9e829a586f668cdfa28a055fa40c19fefe86e00ad05809f.jpg.webp",
+        "present": true,
+        "description": "1800 Вт, скорость цепи 14.5 м/с, шина - 35 см, паз шины - 1.3 мм, шаг цепи - 9.3 мм (3/8)",
+        "type": "Дети",
+        "rating": 3.8,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 12,
+        "ProductName": "'Стиральная машина LG F2J3NS1W белый",
+        "price": 244449,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/ea7cf56724c2a0b1081f8a31ae9b327d/291a1b665e0bff04ae342dc7b6556574b7c28b99b0f05d2025797a13a0320509.jpg.webp",
+        "present": true,
+        "description": "стирка - 6 кг, фронтальная загрузка, отжим - 1200 об/мин, программ - 10, пар, 55 дБ, 60 см x 85 см x 44 см - 49 см",
+        "type": "Дети",
+        "rating": 3.2,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 13,
+        "ProductName": "Встраиваемая микроволновая печь Samsung MS20A7013AB черный",
+        "price": 19399,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/5d81de19a1c8a8227421de056feb73d7/79d2de8e0384d25fe64b4fcd5bff36dcd72c35e2ba6404f8be33ae7fe41cbcdd.jpg.webp",
+        "present": true,
+        "description": "20 л, 850 Вт, автоматическая разморозка, дисплей",
+        "type": "Дети",
+        "rating": 4.7,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 14,
+        "ProductName": "Электрическая цепная пила Makita UC3541A",
+        "price": 12999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/bcbc1bf04de6a0400aa8ff43a3bf58f5/fd9f092667120173a9e829a586f668cdfa28a055fa40c19fefe86e00ad05809f.jpg.webp",
+        "present": true,
+        "description": "1800 Вт, скорость цепи 14.5 м/с, шина - 35 см, паз шины - 1.3 мм, шаг цепи - 9.3 мм (3/8)",
+        "type": "Вторая половинка",
+        "rating": 4.5,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 15,
+        "ProductName": "Встраиваемая микроволновая печь Samsung MS20A7013AB черный",
+        "price": 19399,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/5d81de19a1c8a8227421de056feb73d7/79d2de8e0384d25fe64b4fcd5bff36dcd72c35e2ba6404f8be33ae7fe41cbcdd.jpg.webp",
+        "present": true,
+        "description": "20 л, 850 Вт, автоматическая разморозка, дисплей",
+        "type": "Вторая половинка",
+        "rating": 4.0,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 16,
+        "ProductName": "'Ноутбук MSI Katana GF76 B12UCR-821XRU черный",
+        "price": 95999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5ae4c0ddf39b7998778e5f70f19821a6/64cad8497f91c7b926d47580ba6e67c39534e707153591a1b161302c07634135.jpg.webp",
+        "present": true,
+        "description": "английская/русская раскладка, 1920x1080, IPS, Intel Core i5-12450H, ядра: 4 + 4 х 2 ГГц + 1.5 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 3050 для ноутбуков 4 ГБ, без ОС",
+        "type": "Друзья",
+        "rating": 4.6,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 17,
+        "ProductName": "Встраиваемая микроволновая печь Samsung MS20A7013AB черный",
+        "price": 19399,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/5d81de19a1c8a8227421de056feb73d7/79d2de8e0384d25fe64b4fcd5bff36dcd72c35e2ba6404f8be33ae7fe41cbcdd.jpg.webp",
+        "present": true,
+        "description": "20 л, 850 Вт, автоматическая разморозка, дисплей",
+        "type": "Родители",
+        "rating": 3.6,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 18,
+        "ProductName": "'Ноутбук MSI Katana GF76 B12UCR-821XRU черный",
+        "price": 95999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5ae4c0ddf39b7998778e5f70f19821a6/64cad8497f91c7b926d47580ba6e67c39534e707153591a1b161302c07634135.jpg.webp",
+        "present": true,
+        "description": "английская/русская раскладка, 1920x1080, IPS, Intel Core i5-12450H, ядра: 4 + 4 х 2 ГГц + 1.5 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 3050 для ноутбуков 4 ГБ, без ОС",
+        "type": "Родители",
+        "rating": 3.8,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 19,
+        "ProductName": "'Стиральная машина LG F2J3NS1W белый",
+        "price": 136867,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/ea7cf56724c2a0b1081f8a31ae9b327d/291a1b665e0bff04ae342dc7b6556574b7c28b99b0f05d2025797a13a0320509.jpg.webp",
+        "present": true,
+        "description": "стирка - 6 кг, фронтальная загрузка, отжим - 1200 об/мин, программ - 10, пар, 55 дБ, 60 см x 85 см x 44 см - 49 см",
+        "type": "Друзья",
+        "rating": 4.3,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 20,
+        "ProductName": "Электрическая цепная пила Makita UC3541A",
+        "price": 12999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/bcbc1bf04de6a0400aa8ff43a3bf58f5/fd9f092667120173a9e829a586f668cdfa28a055fa40c19fefe86e00ad05809f.jpg.webp",
+        "present": true,
+        "description": "1800 Вт, скорость цепи 14.5 м/с, шина - 35 см, паз шины - 1.3 мм, шаг цепи - 9.3 мм (3/8)",
+        "type": "Друзья",
+        "rating": 4.8,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 21,
+        "ProductName": "'Ноутбук MSI Katana GF76 B12UCR-821XRU черный",
+        "price": 95999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5ae4c0ddf39b7998778e5f70f19821a6/64cad8497f91c7b926d47580ba6e67c39534e707153591a1b161302c07634135.jpg.webp",
+        "present": true,
+        "description": "английская/русская раскладка, 1920x1080, IPS, Intel Core i5-12450H, ядра: 4 + 4 х 2 ГГц + 1.5 ГГц, RAM 16 ГБ, SSD 512 ГБ, GeForce RTX 3050 для ноутбуков 4 ГБ, без ОС",
+        "type": "Родители",
+        "rating": 3.1,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 22,
+        "ProductName": "'Фен BaByliss Pro Caruso BAB6510 черный",
+        "price": 6559,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/1d5ee4152d231bf961f7784617fa7b08/133f62ed3b11a0e88abb95b6e3fd3229630212be9379b846d3e5a2790caa88cf.jpg.webp",
+        "present": true,
+        "description": "полноразмерный, 2400 Вт, подача холодного воздуха, генератор ионов, шнур - 2.7 м",
+        "type": "Вторая половинка",
+        "rating": 4.2,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 23,
+        "ProductName": "Встраиваемая микроволновая печь Samsung MS20A7013AB черный",
+        "price": 19399,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/5d81de19a1c8a8227421de056feb73d7/79d2de8e0384d25fe64b4fcd5bff36dcd72c35e2ba6404f8be33ae7fe41cbcdd.jpg.webp",
+        "present": true,
+        "description": "20 л, 850 Вт, автоматическая разморозка, дисплей",
+        "type": "Родители",
+        "rating": 3.6,
+         "age": "Больше 50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 24,
+        "ProductName": "Электрическая цепная пила Makita UC3541A",
+        "price": 12999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/bcbc1bf04de6a0400aa8ff43a3bf58f5/fd9f092667120173a9e829a586f668cdfa28a055fa40c19fefe86e00ad05809f.jpg.webp",
+        "present": true,
+        "description": "1800 Вт, скорость цепи 14.5 м/с, шина - 35 см, паз шины - 1.3 мм, шаг цепи - 9.3 мм (3/8)",
+        "type": "Вторая половинка",
+        "rating": 4.9,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 25,
+        "ProductName": "Электрическая цепная пила Makita UC3541A",
+        "price": 12999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/bcbc1bf04de6a0400aa8ff43a3bf58f5/fd9f092667120173a9e829a586f668cdfa28a055fa40c19fefe86e00ad05809f.jpg.webp",
+        "present": true,
+        "description": "1800 Вт, скорость цепи 14.5 м/с, шина - 35 см, паз шины - 1.3 мм, шаг цепи - 9.3 мм (3/8)",
+        "type": "Родители",
+        "rating": 4.3,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 26,
+        "ProductName": "Встраиваемая микроволновая печь Samsung MS20A7013AB черный",
+        "price": 19399,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/5d81de19a1c8a8227421de056feb73d7/79d2de8e0384d25fe64b4fcd5bff36dcd72c35e2ba6404f8be33ae7fe41cbcdd.jpg.webp",
+        "present": true,
+        "description": "20 л, 850 Вт, автоматическая разморозка, дисплей",
+        "type": "Дети",
+        "rating": 4.3,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 27,
+        "ProductName": "Электрическая цепная пила Makita UC3541A",
+        "price": 12999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/bcbc1bf04de6a0400aa8ff43a3bf58f5/fd9f092667120173a9e829a586f668cdfa28a055fa40c19fefe86e00ad05809f.jpg.webp",
+        "present": true,
+        "description": "1800 Вт, скорость цепи 14.5 м/с, шина - 35 см, паз шины - 1.3 мм, шаг цепи - 9.3 мм (3/8)",
+        "type": "Друзья",
+        "rating": 3.6,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 28,
+        "ProductName": "Встраиваемая микроволновая печь Samsung MS20A7013AB черный",
+        "price": 19399,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/5d81de19a1c8a8227421de056feb73d7/79d2de8e0384d25fe64b4fcd5bff36dcd72c35e2ba6404f8be33ae7fe41cbcdd.jpg.webp",
+        "present": true,
+        "description": "20 л, 850 Вт, автоматическая разморозка, дисплей",
+        "type": "Родители",
+        "rating": 4.9,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 29,
+        "ProductName": "Дрель-шуруповерт CAT DX155.1 1 for All 18V",
+        "price": 9299,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/070144870742747cfb569d07541e1dd4/b44c59a3f0eb799de45a6ecb6c9f375dfc5458903f0f87f426a31dc25f137371.jpg.webp",
+        "present": true,
+        "description": "2 АКБ, щеточный, ударный (удар поступательный, осевой), быстрозажимной, 50 Н·м, Li-Ion, 2 А*ч, кейс, 1.88 кг",
+        "type": "Дети",
+        "rating": 4.3,
+         "age": "Больше 50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 30,
+        "ProductName": "Встраиваемая микроволновая печь Samsung MS20A7013AB черный",
+        "price": 19399,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/5d81de19a1c8a8227421de056feb73d7/79d2de8e0384d25fe64b4fcd5bff36dcd72c35e2ba6404f8be33ae7fe41cbcdd.jpg.webp",
+        "present": true,
+        "description": "20 л, 850 Вт, автоматическая разморозка, дисплей",
+        "type": "Вторая половинка",
+        "rating": 3.3,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 31,
+        "ProductName": "'Фен BaByliss Pro Caruso BAB6510 черный",
+        "price": 6559,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/1d5ee4152d231bf961f7784617fa7b08/133f62ed3b11a0e88abb95b6e3fd3229630212be9379b846d3e5a2790caa88cf.jpg.webp",
+        "present": true,
+        "description": "полноразмерный, 2400 Вт, подача холодного воздуха, генератор ионов, шнур - 2.7 м",
+        "type": "Друзья",
+        "rating": 4.3,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 32,
+        "ProductName": "Дрель-шуруповерт CAT DX155.1 1 for All 18V",
+        "price": 9299,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/070144870742747cfb569d07541e1dd4/b44c59a3f0eb799de45a6ecb6c9f375dfc5458903f0f87f426a31dc25f137371.jpg.webp",
+        "present": true,
+        "description": "2 АКБ, щеточный, ударный (удар поступательный, осевой), быстрозажимной, 50 Н·м, Li-Ion, 2 А*ч, кейс, 1.88 кг",
+        "type": "Дети",
+        "rating": 3.0,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 33,
+        "ProductName": "Электрическая цепная пила Makita UC3541A",
+        "price": 12999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/bcbc1bf04de6a0400aa8ff43a3bf58f5/fd9f092667120173a9e829a586f668cdfa28a055fa40c19fefe86e00ad05809f.jpg.webp",
+        "present": true,
+        "description": "1800 Вт, скорость цепи 14.5 м/с, шина - 35 см, паз шины - 1.3 мм, шаг цепи - 9.3 мм (3/8)",
+        "type": "Родители",
+        "rating": 4.2,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 34,
+        "ProductName": "Игровая консоль PlayStation 5 Slim",
+        "price": 127863,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/34db974dde0e5f503ac8da40a23c0e44/cfb0ea5fc6b43e1e55467ef80f8464ff034d86c8d5f6824a8fd7b6db19511dfe.jpg.webp",
+        "present": true,
+        "description": "1000 ГБ, с дисководом, Bluetooth 5.1, Wi-Fi 6 (802.11ax), HDMI 2.1, до 8K UltraHD, 7680 x 4320",
+        "type": "Друзья",
+        "rating": 4.0,
+         "age": "Больше 50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 35,
+        "ProductName": "Беззеркальный фотоаппарат Sony Alpha ZV-E10 Kit 16-50mm черный",
+        "price": 85999,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/05749c217a9b37ba6cb087f2bb1dec19/2b6474076490c8c124c8fb66e71eedf82296f19ee8b9c167f4d8b6d65b10b4d7.jpg.webp",
+        "present": true,
+        "description": "с объективом, кроп, 24.2 Мп, фото: 6000x4000 пикс, до 11 кадр./сек, видео 4K, дисплей поворотный, Bluetooth",
+        "type": "Родители",
+        "rating": 4.8,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 36,
+        "ProductName": "Игровая консоль PlayStation 5 Slim",
+        "price": 214709,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/34db974dde0e5f503ac8da40a23c0e44/cfb0ea5fc6b43e1e55467ef80f8464ff034d86c8d5f6824a8fd7b6db19511dfe.jpg.webp",
+        "present": true,
+        "description": "1000 ГБ, с дисководом, Bluetooth 5.1, Wi-Fi 6 (802.11ax), HDMI 2.1, до 8K UltraHD, 7680 x 4320",
+        "type": "Вторая половинка",
+        "rating": 3.1,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 37,
+        "ProductName": "Игровая консоль PlayStation 5 Slim",
+        "price": 207022,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/34db974dde0e5f503ac8da40a23c0e44/cfb0ea5fc6b43e1e55467ef80f8464ff034d86c8d5f6824a8fd7b6db19511dfe.jpg.webp",
+        "present": true,
+        "description": "1000 ГБ, с дисководом, Bluetooth 5.1, Wi-Fi 6 (802.11ax), HDMI 2.1, до 8K UltraHD, 7680 x 4320",
+        "type": "Родители",
+        "rating": 3.5,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 38,
+        "ProductName": "Игровая консоль PlayStation 5 Slim",
+        "price": 34153,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/34db974dde0e5f503ac8da40a23c0e44/cfb0ea5fc6b43e1e55467ef80f8464ff034d86c8d5f6824a8fd7b6db19511dfe.jpg.webp",
+        "present": true,
+        "description": "1000 ГБ, с дисководом, Bluetooth 5.1, Wi-Fi 6 (802.11ax), HDMI 2.1, до 8K UltraHD, 7680 x 4320",
+        "type": "Вторая половинка",
+        "rating": 4.2,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 39,
+        "ProductName": "'Фен BaByliss Pro Caruso BAB6510 черный",
+        "price": 6559,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/1d5ee4152d231bf961f7784617fa7b08/133f62ed3b11a0e88abb95b6e3fd3229630212be9379b846d3e5a2790caa88cf.jpg.webp",
+        "present": true,
+        "description": "полноразмерный, 2400 Вт, подача холодного воздуха, генератор ионов, шнур - 2.7 м",
+        "type": "Друзья",
+        "rating": 4.3,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 40,
+        "ProductName": "Дрель-шуруповерт CAT DX155.1 1 for All 18V",
+        "price": 9299,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/070144870742747cfb569d07541e1dd4/b44c59a3f0eb799de45a6ecb6c9f375dfc5458903f0f87f426a31dc25f137371.jpg.webp",
+        "present": true,
+        "description": "2 АКБ, щеточный, ударный (удар поступательный, осевой), быстрозажимной, 50 Н·м, Li-Ion, 2 А*ч, кейс, 1.88 кг",
+        "type": "Дети",
+        "rating": 3.4,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 41,
+        "ProductName": "'Фен BaByliss Pro Caruso BAB6510 черный",
+        "price": 6559,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/1d5ee4152d231bf961f7784617fa7b08/133f62ed3b11a0e88abb95b6e3fd3229630212be9379b846d3e5a2790caa88cf.jpg.webp",
+        "present": true,
+        "description": "полноразмерный, 2400 Вт, подача холодного воздуха, генератор ионов, шнур - 2.7 м",
+        "type": "Вторая половинка",
+        "rating": 4.7,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 42,
+        "ProductName": "Беззеркальный фотоаппарат Sony Alpha ZV-E10 Kit 16-50mm черный",
+        "price": 85999,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/05749c217a9b37ba6cb087f2bb1dec19/2b6474076490c8c124c8fb66e71eedf82296f19ee8b9c167f4d8b6d65b10b4d7.jpg.webp",
+        "present": true,
+        "description": "с объективом, кроп, 24.2 Мп, фото: 6000x4000 пикс, до 11 кадр./сек, видео 4K, дисплей поворотный, Bluetooth",
+        "type": "Друзья",
+        "rating": 4.3,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 43,
+        "ProductName": "'Стиральная машина LG F2J3NS1W белый",
+        "price": 28437,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/ea7cf56724c2a0b1081f8a31ae9b327d/291a1b665e0bff04ae342dc7b6556574b7c28b99b0f05d2025797a13a0320509.jpg.webp",
+        "present": true,
+        "description": "стирка - 6 кг, фронтальная загрузка, отжим - 1200 об/мин, программ - 10, пар, 55 дБ, 60 см x 85 см x 44 см - 49 см",
+        "type": "Друзья",
+        "rating": 3.9,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 44,
+        "ProductName": "Дрель-шуруповерт CAT DX155.1 1 for All 18V",
+        "price": 9299,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/070144870742747cfb569d07541e1dd4/b44c59a3f0eb799de45a6ecb6c9f375dfc5458903f0f87f426a31dc25f137371.jpg.webp",
+        "present": true,
+        "description": "2 АКБ, щеточный, ударный (удар поступательный, осевой), быстрозажимной, 50 Н·м, Li-Ion, 2 А*ч, кейс, 1.88 кг",
+        "type": "Друзья",
+        "rating": 4.3,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 45,
+        "ProductName": "'Фен BaByliss Pro Caruso BAB6510 черный",
+        "price": 6559,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/1d5ee4152d231bf961f7784617fa7b08/133f62ed3b11a0e88abb95b6e3fd3229630212be9379b846d3e5a2790caa88cf.jpg.webp",
+        "present": true,
+        "description": "полноразмерный, 2400 Вт, подача холодного воздуха, генератор ионов, шнур - 2.7 м",
+        "type": "Вторая половинка",
+        "rating": 3.3,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 46,
+        "ProductName": "Электрическая цепная пила Makita UC3541A",
+        "price": 12999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/bcbc1bf04de6a0400aa8ff43a3bf58f5/fd9f092667120173a9e829a586f668cdfa28a055fa40c19fefe86e00ad05809f.jpg.webp",
+        "present": true,
+        "description": "1800 Вт, скорость цепи 14.5 м/с, шина - 35 см, паз шины - 1.3 мм, шаг цепи - 9.3 мм (3/8)",
+        "type": "Дети",
+        "rating": 4.9,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 47,
+        "ProductName": "Дрель-шуруповерт CAT DX155.1 1 for All 18V",
+        "price": 9299,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/070144870742747cfb569d07541e1dd4/b44c59a3f0eb799de45a6ecb6c9f375dfc5458903f0f87f426a31dc25f137371.jpg.webp",
+        "present": true,
+        "description": "2 АКБ, щеточный, ударный (удар поступательный, осевой), быстрозажимной, 50 Н·м, Li-Ion, 2 А*ч, кейс, 1.88 кг",
+        "type": "Родители",
+        "rating": 4.9,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 48,
+        "ProductName": "'Смарт-часы Apple Watch SE 2023 40mm",
+        "price": 28599,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/d50df1fa03dd18b3953cce3e8335c787/7d7597a6bed145fc05796677e2e1bb29269c8867515c085e1f82218a95b457db.jpg.webp",
+        "present": true,
+        "description": "корпус - бежевый, ремешок - бежевый, 1.57, OLED, 394x324, Bluetooth, NFC, Wi-Fi, для iOS 17 и выше",
+        "type": "Друзья",
+        "rating": 3.7,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 49,
+        "ProductName": "Дрель-шуруповерт CAT DX155.1 1 for All 18V",
+        "price": 9299,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/070144870742747cfb569d07541e1dd4/b44c59a3f0eb799de45a6ecb6c9f375dfc5458903f0f87f426a31dc25f137371.jpg.webp",
+        "present": true,
+        "description": "2 АКБ, щеточный, ударный (удар поступательный, осевой), быстрозажимной, 50 Н·м, Li-Ion, 2 А*ч, кейс, 1.88 кг",
+        "type": "Вторая половинка",
+        "rating": 3.4,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 50,
+        "ProductName": "Дрель-шуруповерт CAT DX155.1 1 for All 18V",
+        "price": 9299,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/070144870742747cfb569d07541e1dd4/b44c59a3f0eb799de45a6ecb6c9f375dfc5458903f0f87f426a31dc25f137371.jpg.webp",
+        "present": true,
+        "description": "2 АКБ, щеточный, ударный (удар поступательный, осевой), быстрозажимной, 50 Н·м, Li-Ion, 2 А*ч, кейс, 1.88 кг",
+        "type": "Родители",
+        "rating": 4.1,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 51,
+        "ProductName": "'6.1' Смартфон Apple iPhone 14",
+        "price": 34102,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/60c37f197c7c2f6b977c7f7e90f413f7/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 3.5,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 52,
+        "ProductName": "Беззеркальный фотоаппарат Sony Alpha ZV-E10 Kit 16-50mm черный",
+        "price": 85999,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/05749c217a9b37ba6cb087f2bb1dec19/2b6474076490c8c124c8fb66e71eedf82296f19ee8b9c167f4d8b6d65b10b4d7.jpg.webp",
+        "present": true,
+        "description": "с объективом, кроп, 24.2 Мп, фото: 6000x4000 пикс, до 11 кадр./сек, видео 4K, дисплей поворотный, Bluetooth",
+        "type": "Друзья",
+        "rating": 3.7,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 53,
+        "ProductName": "(140 см) LED-телевизор Xiaomi TV A Pro 55 2025 черный",
+        "price": 49999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/0ba0a5d3c7a4b55d59416bcb8339cb1c/5289e41b41daa2df0f0ce674a494ea63294c9ce2e61b20086738edd9779ac7d7.jpg.webp",
+        "present": true,
+        "description": "QLED, 4K UltraHD, Wi-Fi, 60 Гц, Android TV, HDMI х 3, USB х 1 шт",
+        "type": "Родители",
+        "rating": 4.9,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 54,
+        "ProductName": "(140 см) LED-телевизор Xiaomi TV A Pro 55 2025 черный",
+        "price": 49999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/0ba0a5d3c7a4b55d59416bcb8339cb1c/5289e41b41daa2df0f0ce674a494ea63294c9ce2e61b20086738edd9779ac7d7.jpg.webp",
+        "present": true,
+        "description": "QLED, 4K UltraHD, Wi-Fi, 60 Гц, Android TV, HDMI х 3, USB х 1 шт",
+        "type": "Вторая половинка",
+        "rating": 4.5,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 55,
+        "ProductName": "'6.5' Apple iphone 14",
+        "price": 239660,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/60c37f197c7c2f6b977c7f7e90f413f7/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 4.5,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 56,
+        "ProductName": "Наушники TWS Apple AirPods Pro (2nd generation) USB-C белый",
+        "price": 27799,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/44b4b28ba1256a0bbd0cb163d2e1c5e6/4b1c1955a2530fa2de2ad1f4faa496f553779822690c1505f5400e6c34a1dbe1.jpg.webp",
+        "present": true,
+        "description": "2023, 2.0, внутриканальные, Bluetooth, 5.3, беспроводная зарядка",
+        "type": "Дети",
+        "rating": 3.8,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 57,
+        "ProductName": "'Фен BaByliss Pro Caruso BAB6510 черный",
+        "price": 6559,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/1d5ee4152d231bf961f7784617fa7b08/133f62ed3b11a0e88abb95b6e3fd3229630212be9379b846d3e5a2790caa88cf.jpg.webp",
+        "present": true,
+        "description": "полноразмерный, 2400 Вт, подача холодного воздуха, генератор ионов, шнур - 2.7 м",
+        "type": "Вторая половинка",
+        "rating": 3.3,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 58,
+        "ProductName": "(140 см) LED-телевизор Xiaomi TV A Pro 55 2025 черный",
+        "price": 49999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/0ba0a5d3c7a4b55d59416bcb8339cb1c/5289e41b41daa2df0f0ce674a494ea63294c9ce2e61b20086738edd9779ac7d7.jpg.webp",
+        "present": true,
+        "description": "QLED, 4K UltraHD, Wi-Fi, 60 Гц, Android TV, HDMI х 3, USB х 1 шт",
+        "type": "Дети",
+        "rating": 3.6,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 59,
+        "ProductName": "Беззеркальный фотоаппарат Sony Alpha ZV-E10 Kit 16-50mm черный",
+        "price": 85999,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/05749c217a9b37ba6cb087f2bb1dec19/2b6474076490c8c124c8fb66e71eedf82296f19ee8b9c167f4d8b6d65b10b4d7.jpg.webp",
+        "present": true,
+        "description": "с объективом, кроп, 24.2 Мп, фото: 6000x4000 пикс, до 11 кадр./сек, видео 4K, дисплей поворотный, Bluetooth",
+        "type": "Вторая половинка",
+        "rating": 4.9,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 60,
+        "ProductName": "'Смарт-часы Apple Watch SE 2023 40mm",
+        "price": 28599,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/d50df1fa03dd18b3953cce3e8335c787/7d7597a6bed145fc05796677e2e1bb29269c8867515c085e1f82218a95b457db.jpg.webp",
+        "present": true,
+        "description": "корпус - бежевый, ремешок - бежевый, 1.57, OLED, 394x324, Bluetooth, NFC, Wi-Fi, для iOS 17 и выше",
+        "type": "Дети",
+        "rating": 4.3,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 61,
+        "ProductName": "'Смарт-часы Apple Watch SE 2023 40mm",
+        "price": 28599,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/d50df1fa03dd18b3953cce3e8335c787/7d7597a6bed145fc05796677e2e1bb29269c8867515c085e1f82218a95b457db.jpg.webp",
+        "present": true,
+        "description": "корпус - бежевый, ремешок - бежевый, 1.57, OLED, 394x324, Bluetooth, NFC, Wi-Fi, для iOS 17 и выше",
+        "type": "Вторая половинка",
+        "rating": 4.6,
+         "age": "Больше 50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 62,
+        "ProductName": "'6.1' Смартфон Apple iPhone 14",
+        "price": 220702,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/60c37f197c7c2f6b977c7f7e90f413f7/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 4.1,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 63,
+        "ProductName": "Наушники TWS Apple AirPods Pro (2nd generation) USB-C белый",
+        "price": 27799,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/44b4b28ba1256a0bbd0cb163d2e1c5e6/4b1c1955a2530fa2de2ad1f4faa496f553779822690c1505f5400e6c34a1dbe1.jpg.webp",
+        "present": true,
+        "description": "2023, 2.0, внутриканальные, Bluetooth, 5.3, беспроводная зарядка",
+        "type": "Дети",
+        "rating": 4.4,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 64,
+        "ProductName": "'Смарт-часы Apple Watch SE 2023 40mm",
+        "price": 28599,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/d50df1fa03dd18b3953cce3e8335c787/7d7597a6bed145fc05796677e2e1bb29269c8867515c085e1f82218a95b457db.jpg.webp",
+        "present": true,
+        "description": "корпус - бежевый, ремешок - бежевый, 1.57, OLED, 394x324, Bluetooth, NFC, Wi-Fi, для iOS 17 и выше",
+        "type": "Вторая половинка",
+        "rating": 3.1,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 65,
+        "ProductName": "Наушники TWS Apple AirPods Pro (2nd generation) USB-C белый",
+        "price": 27799,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/44b4b28ba1256a0bbd0cb163d2e1c5e6/4b1c1955a2530fa2de2ad1f4faa496f553779822690c1505f5400e6c34a1dbe1.jpg.webp",
+        "present": true,
+        "description": "2023, 2.0, внутриканальные, Bluetooth, 5.3, беспроводная зарядка",
+        "type": "Дети",
+        "rating": 4.5,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 66,
+        "ProductName": "Наушники TWS Apple AirPods Pro (2nd generation) USB-C белый",
+        "price": 27799,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/44b4b28ba1256a0bbd0cb163d2e1c5e6/4b1c1955a2530fa2de2ad1f4faa496f553779822690c1505f5400e6c34a1dbe1.jpg.webp",
+        "present": true,
+        "description": "2023, 2.0, внутриканальные, Bluetooth, 5.3, беспроводная зарядка",
+        "type": "Вторая половинка",
+        "rating": 4.4,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 67,
+        "ProductName": "'Смарт-часы Apple Watch SE 2023 40mm",
+        "price": 28599,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/d50df1fa03dd18b3953cce3e8335c787/7d7597a6bed145fc05796677e2e1bb29269c8867515c085e1f82218a95b457db.jpg.webp",
+        "present": true,
+        "description": "корпус - бежевый, ремешок - бежевый, 1.57, OLED, 394x324, Bluetooth, NFC, Wi-Fi, для iOS 17 и выше",
+        "type": "Друзья",
+        "rating": 4.6,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 68,
+        "ProductName": "'6.1' Смартфон Apple iPhone 14",
+        "price": 17883,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/60c37f197c7c2f6b977c7f7e90f413f7/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 4.8,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 69,
+        "ProductName": "(140 см) LED-телевизор Xiaomi TV A Pro 55 2025 черный",
+        "price": 49999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/0ba0a5d3c7a4b55d59416bcb8339cb1c/5289e41b41daa2df0f0ce674a494ea63294c9ce2e61b20086738edd9779ac7d7.jpg.webp",
+        "present": true,
+        "description": "QLED, 4K UltraHD, Wi-Fi, 60 Гц, Android TV, HDMI х 3, USB х 1 шт",
+        "type": "Друзья",
+        "rating": 3.4,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 70,
+        "ProductName": "МФУ лазерное Pantum M6500W",
+        "price": 15199,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/dbae2cac3fc0db99cda111e70376e049/12b8d24174041b13a59184639afd89d3f511b0342dcbc61e6a33b6e862d449df.jpg.webp",
+        "present": true,
+        "description": "черно-белая печать, A4, 1200x1200 dpi, ч/б - 22 стр/мин (А4), USB, Wi-Fi",
+        "type": "Родители",
+        "rating": 3.3,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 71,
+        "ProductName": "Наушники TWS Apple AirPods Pro (2nd generation) USB-C белый",
+        "price": 27799,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/44b4b28ba1256a0bbd0cb163d2e1c5e6/4b1c1955a2530fa2de2ad1f4faa496f553779822690c1505f5400e6c34a1dbe1.jpg.webp",
+        "present": true,
+        "description": "2023, 2.0, внутриканальные, Bluetooth, 5.3, беспроводная зарядка",
+        "type": "Вторая половинка",
+        "rating": 3.2,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 72,
+        "ProductName": "Наушники TWS Apple AirPods Pro (2nd generation) USB-C белый",
+        "price": 27799,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/44b4b28ba1256a0bbd0cb163d2e1c5e6/4b1c1955a2530fa2de2ad1f4faa496f553779822690c1505f5400e6c34a1dbe1.jpg.webp",
+        "present": true,
+        "description": "2023, 2.0, внутриканальные, Bluetooth, 5.3, беспроводная зарядка",
+        "type": "Родители",
+        "rating": 4.3,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 73,
+        "ProductName": "Беззеркальный фотоаппарат Sony Alpha ZV-E10 Kit 16-50mm черный",
+        "price": 85999,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/05749c217a9b37ba6cb087f2bb1dec19/2b6474076490c8c124c8fb66e71eedf82296f19ee8b9c167f4d8b6d65b10b4d7.jpg.webp",
+        "present": true,
+        "description": "с объективом, кроп, 24.2 Мп, фото: 6000x4000 пикс, до 11 кадр./сек, видео 4K, дисплей поворотный, Bluetooth",
+        "type": "Вторая половинка",
+        "rating": 5.0,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 74,
+        "ProductName": "'6.5' Смартфон Google Pixel 7",
+        "price": 197454,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/77484757f3b60014cb73101401ae556b/7efc98c1ee451eb0a8ecc2fcaa9894000d9a6c742a6119dca3a4661be556a480.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 3.2,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 75,
+        "ProductName": "'6.5' Смартфон Google Pixel 7",
+        "price": 101304,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/77484757f3b60014cb73101401ae556b/7efc98c1ee451eb0a8ecc2fcaa9894000d9a6c742a6119dca3a4661be556a480.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Вторая половинка",
+        "rating": 4.3,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 76,
+        "ProductName": "Беззеркальный фотоаппарат Sony Alpha ZV-E10 Kit 16-50mm черный",
+        "price": 85999,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/05749c217a9b37ba6cb087f2bb1dec19/2b6474076490c8c124c8fb66e71eedf82296f19ee8b9c167f4d8b6d65b10b4d7.jpg.webp",
+        "present": true,
+        "description": "с объективом, кроп, 24.2 Мп, фото: 6000x4000 пикс, до 11 кадр./сек, видео 4K, дисплей поворотный, Bluetooth",
+        "type": "Вторая половинка",
+        "rating": 4.2,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 77,
+        "ProductName": "(140 см) LED-телевизор Xiaomi TV A Pro 55 2025 черный",
+        "price": 49999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/0ba0a5d3c7a4b55d59416bcb8339cb1c/5289e41b41daa2df0f0ce674a494ea63294c9ce2e61b20086738edd9779ac7d7.jpg.webp",
+        "present": true,
+        "description": "QLED, 4K UltraHD, Wi-Fi, 60 Гц, Android TV, HDMI х 3, USB х 1 шт",
+        "type": "Друзья",
+        "rating": 3.8,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 78,
+        "ProductName": "'6.5' Смартфон Google Pixel 7",
+        "price": 212828,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/77484757f3b60014cb73101401ae556b/7efc98c1ee451eb0a8ecc2fcaa9894000d9a6c742a6119dca3a4661be556a480.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Дети",
+        "rating": 4.6,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 79,
+        "ProductName": "'6.1' Смартфон Apple iPhone 14",
+        "price": 83721,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/60c37f197c7c2f6b977c7f7e90f413f7/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 3.8,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 80,
+        "ProductName": "(140 см) LED-телевизор Xiaomi TV A Pro 55 2025 черный",
+        "price": 49999,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/0ba0a5d3c7a4b55d59416bcb8339cb1c/5289e41b41daa2df0f0ce674a494ea63294c9ce2e61b20086738edd9779ac7d7.jpg.webp",
+        "present": true,
+        "description": "QLED, 4K UltraHD, Wi-Fi, 60 Гц, Android TV, HDMI х 3, USB х 1 шт",
+        "type": "Дети",
+        "rating": 3.0,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 81,
+        "ProductName": "Беззеркальный фотоаппарат Sony Alpha ZV-E10 Kit 16-50mm черный",
+        "price": 85999,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/05749c217a9b37ba6cb087f2bb1dec19/2b6474076490c8c124c8fb66e71eedf82296f19ee8b9c167f4d8b6d65b10b4d7.jpg.webp",
+        "present": true,
+        "description": "с объективом, кроп, 24.2 Мп, фото: 6000x4000 пикс, до 11 кадр./сек, видео 4K, дисплей поворотный, Bluetooth",
+        "type": "Вторая половинка",
+        "rating": 4.6,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 82,
+        "ProductName": "'6.1' Смартфон Apple iPhone 14",
+        "price": 82594,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/60c37f197c7c2f6b977c7f7e90f413f7/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Дети",
+        "rating": 3.8,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 83,
+        "ProductName": "'6.7' Смартфон Samsung Galaxy S22 Ultra",
+        "price": 107890,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5bc7778dad004e013f3337dd27ff21d7/69e4de148cb716010043eb0ec2f23bd72896be1be56c70164e580be51e0f2410.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Дети",
+        "rating": 4.8,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 84,
+        "ProductName": "МФУ лазерное Pantum M6500W",
+        "price": 15199,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/dbae2cac3fc0db99cda111e70376e049/12b8d24174041b13a59184639afd89d3f511b0342dcbc61e6a33b6e862d449df.jpg.webp",
+        "present": true,
+        "description": "черно-белая печать, A4, 1200x1200 dpi, ч/б - 22 стр/мин (А4), USB, Wi-Fi",
+        "type": "Друзья",
+        "rating": 3.1,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 85,
+        "ProductName": "'5.8' Смартфон Sony Xperia 10 IV",
+        "price": 78462,
+        "image": "https://avatars.mds.yandex.net/i?id=cdebec40c6834dde460b99328d7d08c5_l-8454246-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 4.5,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 86,
+        "ProductName": "МФУ лазерное Pantum M6500W",
+        "price": 15199,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/dbae2cac3fc0db99cda111e70376e049/12b8d24174041b13a59184639afd89d3f511b0342dcbc61e6a33b6e862d449df.jpg.webp",
+        "present": true,
+        "description": "черно-белая печать, A4, 1200x1200 dpi, ч/б - 22 стр/мин (А4), USB, Wi-Fi",
+        "type": "Дети",
+        "rating": 3.5,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 87,
+        "ProductName": "'6.5' Смартфон Google Pixel 7",
+        "price": 202037,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/77484757f3b60014cb73101401ae556b/7efc98c1ee451eb0a8ecc2fcaa9894000d9a6c742a6119dca3a4661be556a480.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Вторая половинка",
+        "rating": 3.9,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 88,
+        "ProductName": "'6.5' Смартфон Google Pixel 7",
+        "price": 186558,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/77484757f3b60014cb73101401ae556b/7efc98c1ee451eb0a8ecc2fcaa9894000d9a6c742a6119dca3a4661be556a480.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Друзья",
+        "rating": 3.4,
+         "age": "40-50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 89,
+        "ProductName": "'6.1' Смартфон Apple iPhone 14",
+        "price": 183952,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/60c37f197c7c2f6b977c7f7e90f413f7/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Дети",
+        "rating": 4.8,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 90,
+        "ProductName": "'5.8' Смартфон Sony Xperia 10 IV",
+        "price": 74809,
+        "image": "https://avatars.mds.yandex.net/i?id=cdebec40c6834dde460b99328d7d08c5_l-8454246-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 5.0,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 91,
+        "ProductName": "'6.7' Смартфон Samsung Galaxy S22 Ultra",
+        "price": 100910,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5bc7778dad004e013f3337dd27ff21d7/69e4de148cb716010043eb0ec2f23bd72896be1be56c70164e580be51e0f2410.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Дети",
+        "rating": 3.6,
+         "age": "Больше 50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 92,
+        "ProductName": "'6.7' Смартфон Samsung Galaxy S22 Ultra",
+        "price": 13910,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5bc7778dad004e013f3337dd27ff21d7/69e4de148cb716010043eb0ec2f23bd72896be1be56c70164e580be51e0f2410.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Друзья",
+        "rating": 4.3,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 93,
+        "ProductName": "МФУ лазерное Pantum M6500W",
+        "price": 15199,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/dbae2cac3fc0db99cda111e70376e049/12b8d24174041b13a59184639afd89d3f511b0342dcbc61e6a33b6e862d449df.jpg.webp",
+        "present": true,
+        "description": "черно-белая печать, A4, 1200x1200 dpi, ч/б - 22 стр/мин (А4), USB, Wi-Fi",
+        "type": "Друзья",
+        "rating": 4.5,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 94,
+        "ProductName": "'5.8' Смартфон Sony Xperia 10 IV",
+        "price": 125369,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/77484757f3b60014cb73101401ae556b/7efc98c1ee451eb0a8ecc2fcaa9894000d9a6c742a6119dca3a4661be556a480.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Дети",
+        "rating": 4.9,
+         "age": "Больше 50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 95,
+        "ProductName": "'6.7' Смартфон Galaxy S22 Ultra",
+        "price": 207617,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5bc7778dad004e013f3337dd27ff21d7/69e4de148cb716010043eb0ec2f23bd72896be1be56c70164e580be51e0f2410.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Друзья",
+        "rating": 4.3,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 96,
+        "ProductName": "МФУ лазерное Pantum M6500W",
+        "price": 15199,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/dbae2cac3fc0db99cda111e70376e049/12b8d24174041b13a59184639afd89d3f511b0342dcbc61e6a33b6e862d449df.jpg.webp",
+        "present": true,
+        "description": "черно-белая печать, A4, 1200x1200 dpi, ч/б - 22 стр/мин (А4), USB, Wi-Fi",
+        "type": "Друзья",
+        "rating": 3.1,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 97,
+        "ProductName": "'6.4' Смартфон Xiaomi 12T",
+        "price": 201866,
+        "image": "",
+        "present": true,
+        "description": "черно-белая печать, A4, 1200x1200 dpi, ч/б - 22 стр/мин (А4), USB, Wi-Fi",
+        "type": "Друзья",
+        "rating": 4.3,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 98,
+        "ProductName": "'5.8' Смартфон Sony Xperia 10 IV",
+        "price": 125609,
+        "image": "https://avatars.mds.yandex.net/i?id=7fc6786c51dd5774e72fe21d3de23ff9add745d5-4566480-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Друзья",
+        "rating": 3.8,
+         "age": "40-50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 99,
+        "ProductName": "'6.4' Смартфон Xiaomi 12T",
+        "price": 162507,
+        "image": "https://avatars.mds.yandex.net/i?id=7fc6786c51dd5774e72fe21d3de23ff9add745d5-4566480-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 4.2,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 100,
+        "ProductName": "'6.4' Смартфон Xiaomi 12T",
+        "price": 59014,
+        "image": "https://avatars.mds.yandex.net/i?id=7fc6786c51dd5774e72fe21d3de23ff9add745d5-4566480-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Дети",
+        "rating": 4.6,
+         "age": "Больше 50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 101,
+        "ProductName": "'5.8' Смартфон Sony Xperia 10 IV",
+        "price": 211160,
+        "image": "https://avatars.mds.yandex.net/i?id=cdebec40c6834dde460b99328d7d08c5_l-8454246-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Друзья",
+        "rating": 3.5,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 102,
+        "ProductName": "'6.4' Смартфон Xiaomi 12T",
+        "price": 150187,
+        "image": "https://avatars.mds.yandex.net/i?id=7fc6786c51dd5774e72fe21d3de23ff9add745d5-4566480-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Друзья",
+        "rating": 4.3,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 103,
+        "ProductName": "'6.7' Смартфон Samsung Galaxy S22 Ultra",
+        "price": 19280,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5bc7778dad004e013f3337dd27ff21d7/69e4de148cb716010043eb0ec2f23bd72896be1be56c70164e580be51e0f2410.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Вторая половинка",
+        "rating": 3.4,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 104,
+        "ProductName": "'6.4' Смартфон Xiaomi 12T",
+        "price": 38498,
+        "image": "https://avatars.mds.yandex.net/i?id=7fc6786c51dd5774e72fe21d3de23ff9add745d5-4566480-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 4.3,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 105,
+        "ProductName": "'6.7' Смартфон Samsung Galaxy S22 Ultra",
+        "price": 249773,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5bc7778dad004e013f3337dd27ff21d7/69e4de148cb716010043eb0ec2f23bd72896be1be56c70164e580be51e0f2410.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Вторая половинка",
+        "rating": 4.4,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 106,
+        "ProductName": "'6.7' Смартфон Samsung Galaxy S22 Ultra",
+        "price": 175493,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5bc7778dad004e013f3337dd27ff21d7/69e4de148cb716010043eb0ec2f23bd72896be1be56c70164e580be51e0f2410.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Дети",
+        "rating": 3.7,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 107,
+        "ProductName": "'6.4' Смартфон Xiaomi 12T",
+        "price": 20281,
+        "image": "https://avatars.mds.yandex.net/i?id=7fc6786c51dd5774e72fe21d3de23ff9add745d5-4566480-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Друзья",
+        "rating": 4.2,
+         "age": "Больше 50",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 108,
+        "ProductName": "'6.1' Смартфон Apple iPhone 14",
+        "price": 33773,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/60c37f197c7c2f6b977c7f7e90f413f7/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Вторая половинка",
+        "rating": 4.2,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 109,
+        "ProductName": "'6.7' Смартфон Samsung Galaxy S22 Ultra",
+        "price": 191015,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5bc7778dad004e013f3337dd27ff21d7/69e4de148cb716010043eb0ec2f23bd72896be1be56c70164e580be51e0f2410.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 4.4,
+         "age": "Больше 50",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 110,
+        "ProductName": "'6.1' Смартфон Apple iPhone 14",
+        "price": 206897,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/60c37f197c7c2f6b977c7f7e90f413f7/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Друзья",
+        "rating": 3.6,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 111,
+        "ProductName": "'6.4' Смартфон Xiaomi 12T",
+        "price": 20668,
+        "image": "https://avatars.mds.yandex.net/i?id=7fc6786c51dd5774e72fe21d3de23ff9add745d5-4566480-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Дети",
+        "rating": 3.3,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 112,
+        "ProductName": "'6.4' Смартфон Xiaomi 12T",
+        "price": 14048,
+        "image": "https://avatars.mds.yandex.net/i?id=7fc6786c51dd5774e72fe21d3de23ff9add745d5-4566480-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Дети",
+        "rating": 4.3,
+         "age": "20-30",
+         "gender": "Мужчина"
+          
+    },
+    {
+        "id": 113,
+        "ProductName": "'6.5' Смартфон Google Pixel 7",
+        "price": 141846,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/77484757f3b60014cb73101401ae556b/7efc98c1ee451eb0a8ecc2fcaa9894000d9a6c742a6119dca3a4661be556a480.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Вторая половинка",
+        "rating": 4.1,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 114,
+        "ProductName": "'6.5' Смартфон Google Pixel 7",
+        "price": 235100,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/77484757f3b60014cb73101401ae556b/7efc98c1ee451eb0a8ecc2fcaa9894000d9a6c742a6119dca3a4661be556a480.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Вторая половинка",
+        "rating": 4.1,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 115,
+        "ProductName": "'5.8' Смартфон Sony Xperia 10 IV",
+        "price": 213934,
+        "image": "https://avatars.mds.yandex.net/i?id=cdebec40c6834dde460b99328d7d08c5_l-8454246-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Друзья",
+        "rating": 4.4,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 116,
+        "ProductName": "'6.1' Смартфон Apple iPhone 14",
+        "price": 151024,
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/60c37f197c7c2f6b977c7f7e90f413f7/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Друзья",
+        "rating": 3.7,
+         "age": "20-30",
+         "gender": "Мужчина"
+         
+    },
+    {
+        "id": 117,
+        "ProductName": "'6.4' Смартфон Xiaomi 12T",
+        "price": 20980,
+        "image": "https://avatars.mds.yandex.net/i?id=7fc6786c51dd5774e72fe21d3de23ff9add745d5-4566480-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Вторая половинка",
+        "rating": 4.6,
+         "age": "До 20",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 118,
+        "ProductName": "'5.8' Смартфон Sony Xperia 10 IV",
+        "price": 98290,
+        "image": "https://avatars.mds.yandex.net/i?id=cdebec40c6834dde460b99328d7d08c5_l-8454246-images-thumbs&n=13",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Родители",
+        "rating": 4.9,
+         "age": "20-30",
+         "gender": "Женщина"
+         
+    },
+    {
+        "id": 119,
+        "ProductName": "'6.7' Смартфон Samsung Galaxy S22 Ultra",
+        "price": 27717,
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5bc7778dad004e013f3337dd27ff21d7/69e4de148cb716010043eb0ec2f23bd72896be1be56c70164e580be51e0f2410.jpg.webp",
+        "present": true,
+        "description": "ядер - 6x(3.89 ГГц), 8 ГБ, 1 SIM, Super Retina XDR, 2868x1320, камера 48+48+12 Мп, NFC, 5G, GPS",
+        "type": "Дети",
+        "rating": 4.8,
+         "age": "До 20",
+         "gender": "Мужчина"
+         
+    }
+]
